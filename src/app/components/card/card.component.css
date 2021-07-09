@@ -1,0 +1,10 @@
+.card {
+	padding: 20px;
+	width: 200px;
+	height: 300px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.title{
+	color: #178290;
+}

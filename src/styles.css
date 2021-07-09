@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+ul li a {
+	text-decoration: none;
+	color: #b61c1c !important;
+}
+
+.theme-bg{
+	background-color: #178290
+}
+
+.theme-c{
+	color: #178290
+}

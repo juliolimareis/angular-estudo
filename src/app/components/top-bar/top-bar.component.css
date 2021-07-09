@@ -1,0 +1,10 @@
+.top-bar{
+	display: flex;
+	position: static;
+	background-color: white;
+}
+
+.top-button{
+	margin: 10px;
+	margin-top: 20px;
+}
