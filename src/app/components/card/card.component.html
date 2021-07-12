@@ -1,9 +1,19 @@
 <div class="card">
   
-	<img src="https://csiway.com.br/img/logo-ecops.png" alt="">
+	<div>
+		<ng-content></ng-content>
+	</div>
 
-	<p class="title theme-c">
-		teste
+	<p class="theme-c title">
+		<strong>{{title}}</strong>
 	</p>
+
+	<p class="description">
+		{{description}}
+	</p>
+
+	<div>
+
+	</div>
 
 </div>
